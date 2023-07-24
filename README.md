@@ -1,5 +1,12 @@
-<p align=center><img src="discord-logo-black.png" width="500px" height="100px"></p>
+<p align=center><img src="discord-logo-black.png" width="500px" height="100px"/></p>
 
 
-<p align=center><h4>Discord-Token</h4></p>
-Discord
+
+### Discord-Token
+- Grab Discord Token CLI
+- first install Nodejs.
+- run `npm install`
+### How To Use
+- run `node get-token`
+
+
